@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_1_size">22sp</dimen>
+    <dimen name="title_2_size">20sp</dimen>
+    <dimen name="title_3_size">16sp</dimen>
+    <dimen name="title_4_size">14sp</dimen>
+    <dimen name="text_1_size">14sp</dimen>
+    <dimen name="button_text_1_size">16sp</dimen>
+    <dimen name="button_text_2_size">14sp</dimen>
+    <dimen name="table_text_size">10sp</dimen>
+    <dimen name="number_size">7sp</dimen>
+
+
+
+</resources>
